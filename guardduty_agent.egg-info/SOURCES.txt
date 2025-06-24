@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+guardduty_agent/__init__.py
+guardduty_agent/cli.py
+guardduty_agent/config.py
+guardduty_agent/guardduty_client.py
+guardduty_agent/mcp_server.py
+guardduty_agent.egg-info/PKG-INFO
+guardduty_agent.egg-info/SOURCES.txt
+guardduty_agent.egg-info/dependency_links.txt
+guardduty_agent.egg-info/entry_points.txt
+guardduty_agent.egg-info/requires.txt
+guardduty_agent.egg-info/top_level.txt
+tests/test_config.py
+tests/test_guardduty_client.py

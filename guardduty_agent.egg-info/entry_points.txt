@@ -1,0 +1,2 @@
+[console_scripts]
+guardduty-agent = guardduty_agent.cli:main
